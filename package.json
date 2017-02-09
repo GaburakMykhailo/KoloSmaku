@@ -12,7 +12,9 @@
     "@types/react-native": "^0.37.11",
     "react": "^15.4.2",
     "react-native": "0.41.2",
-    "react-native-web": "0.0.69"
+    "react-native-web": "0.0.69",
+    "react-router-dom": "^4.0.0-beta.5",
+    "react-router-native": "^4.0.0-beta.5"
   },
   "devDependencies": {
     "babel-jest": "18.0.0",
